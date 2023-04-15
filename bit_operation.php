@@ -10,8 +10,8 @@ $k = $i & $j;
 printf("%x & %x = %x \n", $i, $j, $k);
 
 // OR
-$k = $i | $j;
-printf("%x | %x = %x \n", $i, $j, $k);
+$k = $i | $j;s
+printf("%x | %x = %x \n", $i, $j, $k);s
 
 // XOR
 $k = $i ^ $j;
