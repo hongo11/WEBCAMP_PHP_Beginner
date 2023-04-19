@@ -5,7 +5,7 @@ function numToDouble(int $i): int // 今回書き換えた箇所　その１
 {
     // 値を２倍にする
     $ret = $i * 2;
-    
+
     // 戻り値
     return $ret;
 }
@@ -19,7 +19,7 @@ function numAdd(int $a, int $b): int // 今回書き換えた箇所　その２
 {
     // 加算する
     $ret = $a + $b;
-    
+
     // 戻り値
     return $ret;
 }
