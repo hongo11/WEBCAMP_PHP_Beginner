@@ -25,7 +25,7 @@ var_dump($array);
 foreach($array as $key => $value) {
     //
     echo "{$key}番目の配列 \n";
-    
+
     // 「」配列の中に入っている配列」に対する繰り返しの処理
     foreach($value as $k => $v) {
         //中身の出力
