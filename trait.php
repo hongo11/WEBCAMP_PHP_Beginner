@@ -12,7 +12,7 @@ trait 部品
 class クラス名
 {
     use 部品; // traitの使用宣言
-    
+
     public function クラスのメソッド()
     {
         echo "クラスのメソッド \n";
